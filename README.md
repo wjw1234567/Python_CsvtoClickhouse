@@ -1,0 +1,2 @@
+# Python_CsvtoClickhouse
+csv数据分块写入clickhouse
